@@ -6,7 +6,7 @@ struct LittleLemonLogo: View {
     @State private var offsetValue:CGSize = .zero
     var body: some View {
         VStack {
-            EmptyView()
+            Image("littleLemon")
         }
     }
 }
