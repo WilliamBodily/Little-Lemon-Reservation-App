@@ -1,7 +1,7 @@
 import SwiftUI
 
 @main
-struct FinalProjectApp: App {
+struct LittleLemonReservationApp: App {
     var body: some Scene {
         WindowGroup {
             MainView()

@@ -1,6 +1,6 @@
 import SwiftUI
 
-struct LittleLemonLogo: View {
+struct LittleLemonLogoView: View {
     
     // Dreg Gesture
     @State private var offsetValue:CGSize = .zero
@@ -11,8 +11,8 @@ struct LittleLemonLogo: View {
     }
 }
 
-struct LittleLemonLogo_Previews: PreviewProvider {
+struct LittleLemonLogoView_Previews: PreviewProvider {
     static var previews: some View {
-        LittleLemonLogo()
+        LittleLemonLogoView()
     }
 }
