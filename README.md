@@ -1,14 +1,14 @@
-##Little-Lemon-Reservation-App
+# Little-Lemon-Reservation-App
 
-Meta iOS Developer Course final project for Create the User Interface with SwiftUI
+## Meta iOS Developer Course final project for Create the User Interface with SwiftUI
 
-Exercise: Little Lemon Reservation App
+### Exercise: Little Lemon Reservation App
 
-Overview
+### Overview
 
 In this exercise, you will see how the Little Lemon Reservation app works and how to setup two basic elements that start the application.
 
-Scenario
+### Scenario
 
 Suppose you are creating a reservation application for the Little Lemon restaurant. This app's main view shows several restaurant locations and asks the user to select one. After selecting one location, the user is presented with a new view where the reservation is performed.
 
